@@ -19,7 +19,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/action-sheet"
+          "id": "version-v6/action-sheet"
         }
       ],
       "collapsible": true
@@ -31,11 +31,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/accordion"
+          "id": "version-v6/accordion"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/accordion-group"
+          "id": "version-v6/accordion-group"
         }
       ],
       "collapsible": true
@@ -47,7 +47,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/alert"
+          "id": "version-v6/alert"
         }
       ],
       "collapsible": true
@@ -59,7 +59,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/badge"
+          "id": "version-v6/badge"
         }
       ],
       "collapsible": true
@@ -71,11 +71,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/breadcrumb"
+          "id": "version-v6/breadcrumb"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/breadcrumbs"
+          "id": "version-v6/breadcrumbs"
         }
       ],
       "collapsible": true
@@ -87,11 +87,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/button"
+          "id": "version-v6/button"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/ripple-effect"
+          "id": "version-v6/ripple-effect"
         }
       ],
       "collapsible": true
@@ -103,23 +103,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/card"
+          "id": "version-v6/card"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/card-content"
+          "id": "version-v6/card-content"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/card-header"
+          "id": "version-v6/card-header"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/card-subtitle"
+          "id": "version-v6/card-subtitle"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/card-title"
+          "id": "version-v6/card-title"
         }
       ],
       "collapsible": true
@@ -131,7 +131,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/checkbox"
+          "id": "version-v6/checkbox"
         }
       ],
       "collapsible": true
@@ -143,7 +143,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/chip"
+          "id": "version-v6/chip"
         }
       ],
       "collapsible": true
@@ -155,11 +155,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/app"
+          "id": "version-v6/app"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/content"
+          "id": "version-v6/content"
         }
       ],
       "collapsible": true
@@ -171,15 +171,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/datetime"
+          "id": "version-v6/datetime"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/datetime-button"
+          "id": "version-v6/datetime-button"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/picker"
+          "id": "version-v6/picker"
         }
       ],
       "collapsible": true
@@ -191,15 +191,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/fab"
+          "id": "version-v6/fab"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/fab-button"
+          "id": "version-v6/fab-button"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/fab-list"
+          "id": "version-v6/fab-list"
         }
       ],
       "collapsible": true
@@ -211,15 +211,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/grid"
+          "id": "version-v6/grid"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/col"
+          "id": "version-v6/col"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/row"
+          "id": "version-v6/row"
         }
       ],
       "collapsible": true
@@ -231,11 +231,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/infinite-scroll"
+          "id": "version-v6/infinite-scroll"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/infinite-scroll-content"
+          "id": "version-v6/infinite-scroll-content"
         }
       ],
       "collapsible": true
@@ -247,7 +247,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/icon"
+          "id": "version-v6/icon"
         }
       ],
       "collapsible": true
@@ -259,11 +259,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/input"
+          "id": "version-v6/input"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/textarea"
+          "id": "version-v6/textarea"
         }
       ],
       "collapsible": true
@@ -275,35 +275,35 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/item"
+          "id": "version-v6/item"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/item-divider"
+          "id": "version-v6/item-divider"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/item-group"
+          "id": "version-v6/item-group"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/item-sliding"
+          "id": "version-v6/item-sliding"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/item-options"
+          "id": "version-v6/item-options"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/item-option"
+          "id": "version-v6/item-option"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/label"
+          "id": "version-v6/label"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/note"
+          "id": "version-v6/note"
         }
       ],
       "collapsible": true
@@ -315,15 +315,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/list"
+          "id": "version-v6/list"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/list-header"
+          "id": "version-v6/list-header"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/virtual-scroll"
+          "id": "version-v6/virtual-scroll"
         }
       ],
       "collapsible": true
@@ -335,19 +335,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/avatar"
+          "id": "version-v6/avatar"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/icon"
+          "id": "version-v6/icon"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/img"
+          "id": "version-v6/img"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/thumbnail"
+          "id": "version-v6/thumbnail"
         }
       ],
       "collapsible": true
@@ -359,19 +359,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/menu"
+          "id": "version-v6/menu"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/menu-button"
+          "id": "version-v6/menu-button"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/menu-toggle"
+          "id": "version-v6/menu-toggle"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/split-pane"
+          "id": "version-v6/split-pane"
         }
       ],
       "collapsible": true
@@ -383,11 +383,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/modal"
+          "id": "version-v6/modal"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/backdrop"
+          "id": "version-v6/backdrop"
         }
       ],
       "collapsible": true
@@ -399,11 +399,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/nav"
+          "id": "version-v6/nav"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/nav-link"
+          "id": "version-v6/nav-link"
         }
       ],
       "collapsible": true
@@ -415,7 +415,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/popover"
+          "id": "version-v6/popover"
         }
       ],
       "collapsible": true
@@ -427,19 +427,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/loading"
+          "id": "version-v6/loading"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/progress-bar"
+          "id": "version-v6/progress-bar"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/skeleton-text"
+          "id": "version-v6/skeleton-text"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/spinner"
+          "id": "version-v6/spinner"
         }
       ],
       "collapsible": true
@@ -451,11 +451,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/radio"
+          "id": "version-v6/radio"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/radio-group"
+          "id": "version-v6/radio-group"
         }
       ],
       "collapsible": true
@@ -467,7 +467,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/range"
+          "id": "version-v6/range"
         }
       ],
       "collapsible": true
@@ -479,11 +479,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/refresher"
+          "id": "version-v6/refresher"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/refresher-content"
+          "id": "version-v6/refresher-content"
         }
       ],
       "collapsible": true
@@ -495,11 +495,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/reorder"
+          "id": "version-v6/reorder"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/reorder-group"
+          "id": "version-v6/reorder-group"
         }
       ],
       "collapsible": true
@@ -511,23 +511,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/router"
+          "id": "version-v6/router"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/router-link"
+          "id": "version-v6/router-link"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/router-outlet"
+          "id": "version-v6/router-outlet"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/route"
+          "id": "version-v6/route"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/route-redirect"
+          "id": "version-v6/route-redirect"
         }
       ],
       "collapsible": true
@@ -539,7 +539,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/searchbar"
+          "id": "version-v6/searchbar"
         }
       ],
       "collapsible": true
@@ -551,11 +551,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/segment"
+          "id": "version-v6/segment"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/segment-button"
+          "id": "version-v6/segment-button"
         }
       ],
       "collapsible": true
@@ -567,11 +567,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/select"
+          "id": "version-v6/select"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/select-option"
+          "id": "version-v6/select-option"
         }
       ],
       "collapsible": true
@@ -583,11 +583,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/slides"
+          "id": "version-v6/slides"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/slide"
+          "id": "version-v6/slide"
         }
       ],
       "collapsible": true
@@ -599,19 +599,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/tabs"
+          "id": "version-v6/tabs"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/tab"
+          "id": "version-v6/tab"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/tab-bar"
+          "id": "version-v6/tab-bar"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/tab-button"
+          "id": "version-v6/tab-button"
         }
       ],
       "collapsible": true
@@ -623,7 +623,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/toast"
+          "id": "version-v6/toast"
         }
       ],
       "collapsible": true
@@ -635,7 +635,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/toggle"
+          "id": "version-v6/toggle"
         }
       ],
       "collapsible": true
@@ -647,27 +647,27 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/toolbar"
+          "id": "version-v6/toolbar"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/header"
+          "id": "version-v6/header"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/footer"
+          "id": "version-v6/footer"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/title"
+          "id": "version-v6/title"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/buttons"
+          "id": "version-v6/buttons"
         },
         {
           "type": "doc",
-          "id": "version-v6/api/back-button"
+          "id": "version-v6/back-button"
         }
       ],
       "collapsible": true
@@ -679,7 +679,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v6/api/text"
+          "id": "version-v6/text"
         }
       ],
       "collapsible": true

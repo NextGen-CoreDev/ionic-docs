@@ -1,5 +1,6 @@
 ---
 title: UI Components
+slug: /
 hide_table_of_contents: true
 ---
 

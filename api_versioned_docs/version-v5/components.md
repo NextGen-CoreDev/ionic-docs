@@ -1,6 +1,7 @@
 ---
 title: UI Components
 description: Ionic Framework comes stock with a number of high-level UI components, including cards, lists, and tabs to quickly and easily build your app's user interface.
+slug: /
 hide_table_of_contents: true
 ---
 

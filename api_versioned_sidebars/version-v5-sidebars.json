@@ -11,7 +11,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/action-sheet"
+          "id": "version-v5/action-sheet"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/alert"
+          "id": "version-v5/alert"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/badge"
+          "id": "version-v5/badge"
         }
       ]
     },
@@ -44,11 +44,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/button"
+          "id": "version-v5/button"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/ripple-effect"
+          "id": "version-v5/ripple-effect"
         }
       ]
     },
@@ -59,23 +59,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/card"
+          "id": "version-v5/card"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/card-content"
+          "id": "version-v5/card-content"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/card-header"
+          "id": "version-v5/card-header"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/card-subtitle"
+          "id": "version-v5/card-subtitle"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/card-title"
+          "id": "version-v5/card-title"
         }
       ]
     },
@@ -86,7 +86,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/checkbox"
+          "id": "version-v5/checkbox"
         }
       ]
     },
@@ -97,7 +97,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/chip"
+          "id": "version-v5/chip"
         }
       ]
     },
@@ -108,11 +108,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/app"
+          "id": "version-v5/app"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/content"
+          "id": "version-v5/content"
         }
       ]
     },
@@ -123,11 +123,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/datetime"
+          "id": "version-v5/datetime"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/picker"
+          "id": "version-v5/picker"
         }
       ]
     },
@@ -138,15 +138,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/fab"
+          "id": "version-v5/fab"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/fab-button"
+          "id": "version-v5/fab-button"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/fab-list"
+          "id": "version-v5/fab-list"
         }
       ]
     },
@@ -157,15 +157,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/grid"
+          "id": "version-v5/grid"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/col"
+          "id": "version-v5/col"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/row"
+          "id": "version-v5/row"
         }
       ]
     },
@@ -176,11 +176,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/infinite-scroll"
+          "id": "version-v5/infinite-scroll"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/infinite-scroll-content"
+          "id": "version-v5/infinite-scroll-content"
         }
       ]
     },
@@ -203,11 +203,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/input"
+          "id": "version-v5/input"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/textarea"
+          "id": "version-v5/textarea"
         }
       ]
     },
@@ -218,35 +218,35 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/item"
+          "id": "version-v5/item"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/item-divider"
+          "id": "version-v5/item-divider"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/item-group"
+          "id": "version-v5/item-group"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/item-sliding"
+          "id": "version-v5/item-sliding"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/item-options"
+          "id": "version-v5/item-options"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/item-option"
+          "id": "version-v5/item-option"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/label"
+          "id": "version-v5/label"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/note"
+          "id": "version-v5/note"
         }
       ]
     },
@@ -257,15 +257,15 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/list"
+          "id": "version-v5/list"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/list-header"
+          "id": "version-v5/list-header"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/virtual-scroll"
+          "id": "version-v5/virtual-scroll"
         }
       ]
     },
@@ -276,7 +276,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/avatar"
+          "id": "version-v5/avatar"
         },
         {
           "type": "link",
@@ -285,11 +285,11 @@
         },
         {
           "type": "doc",
-          "id": "version-v5/api/img"
+          "id": "version-v5/img"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/thumbnail"
+          "id": "version-v5/thumbnail"
         }
       ]
     },
@@ -300,19 +300,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/menu"
+          "id": "version-v5/menu"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/menu-button"
+          "id": "version-v5/menu-button"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/menu-toggle"
+          "id": "version-v5/menu-toggle"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/split-pane"
+          "id": "version-v5/split-pane"
         }
       ]
     },
@@ -323,11 +323,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/modal"
+          "id": "version-v5/modal"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/backdrop"
+          "id": "version-v5/backdrop"
         }
       ]
     },
@@ -338,11 +338,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/nav"
+          "id": "version-v5/nav"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/nav-link"
+          "id": "version-v5/nav-link"
         }
       ]
     },
@@ -353,7 +353,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/popover"
+          "id": "version-v5/popover"
         }
       ]
     },
@@ -364,19 +364,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/loading"
+          "id": "version-v5/loading"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/progress-bar"
+          "id": "version-v5/progress-bar"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/skeleton-text"
+          "id": "version-v5/skeleton-text"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/spinner"
+          "id": "version-v5/spinner"
         }
       ]
     },
@@ -387,11 +387,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/radio"
+          "id": "version-v5/radio"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/radio-group"
+          "id": "version-v5/radio-group"
         }
       ]
     },
@@ -402,7 +402,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/range"
+          "id": "version-v5/range"
         }
       ]
     },
@@ -413,11 +413,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/refresher"
+          "id": "version-v5/refresher"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/refresher-content"
+          "id": "version-v5/refresher-content"
         }
       ]
     },
@@ -428,11 +428,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/reorder"
+          "id": "version-v5/reorder"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/reorder-group"
+          "id": "version-v5/reorder-group"
         }
       ]
     },
@@ -443,23 +443,23 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/router"
+          "id": "version-v5/router"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/router-link"
+          "id": "version-v5/router-link"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/router-outlet"
+          "id": "version-v5/router-outlet"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/route"
+          "id": "version-v5/route"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/route-redirect"
+          "id": "version-v5/route-redirect"
         }
       ]
     },
@@ -470,7 +470,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/searchbar"
+          "id": "version-v5/searchbar"
         }
       ]
     },
@@ -481,11 +481,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/segment"
+          "id": "version-v5/segment"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/segment-button"
+          "id": "version-v5/segment-button"
         }
       ]
     },
@@ -496,11 +496,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/select"
+          "id": "version-v5/select"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/select-option"
+          "id": "version-v5/select-option"
         }
       ]
     },
@@ -511,11 +511,11 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/slides"
+          "id": "version-v5/slides"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/slide"
+          "id": "version-v5/slide"
         }
       ]
     },
@@ -526,19 +526,19 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/tabs"
+          "id": "version-v5/tabs"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/tab"
+          "id": "version-v5/tab"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/tab-bar"
+          "id": "version-v5/tab-bar"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/tab-button"
+          "id": "version-v5/tab-button"
         }
       ]
     },
@@ -549,7 +549,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/toast"
+          "id": "version-v5/toast"
         }
       ]
     },
@@ -560,7 +560,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/toggle"
+          "id": "version-v5/toggle"
         }
       ]
     },
@@ -571,27 +571,27 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/toolbar"
+          "id": "version-v5/toolbar"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/header"
+          "id": "version-v5/header"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/footer"
+          "id": "version-v5/footer"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/title"
+          "id": "version-v5/title"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/buttons"
+          "id": "version-v5/buttons"
         },
         {
           "type": "doc",
-          "id": "version-v5/api/back-button"
+          "id": "version-v5/back-button"
         }
       ]
     },
@@ -602,7 +602,7 @@
       "items": [
         {
           "type": "doc",
-          "id": "version-v5/api/text"
+          "id": "version-v5/text"
         }
       ]
     },
