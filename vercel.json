@@ -1,4 +1,5 @@
 {
+  "trailingSlash": false,
   "redirects": [
     { "source": "/", "destination": "/docs" },
     {
@@ -65,9 +66,5 @@
     },
     { "source": "/docs/vue/your-first-app/7-live-reload", "destination": "/docs/vue/your-first-app/live-reload" },
     { "source": "/docs/react/testing", "destination": "/docs/react/testing/introduction" }
-  ],
-  "rewrites": [
-    { "source": "/docs", "destination": "/" },
-    { "source": "/docs/:match*", "destination": "/:match*" }
   ]
 }
